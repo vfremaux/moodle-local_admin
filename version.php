@@ -23,6 +23,7 @@
  * @copyright  2010 onwards Valery Fremaux <valery.fremaux@gmail.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL
  */
+defined('MOODLE_INTERNAL') || die();
 
 $plugin->version  = 2015072600;   // The (date) version of this plugin.
 $plugin->requires = 2016051900;   // Requires this Moodle version.
